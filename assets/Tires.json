@@ -1,0 +1,107 @@
+[
+    {
+      "label": "Which company makes more tires than any other tire manufacturer - producing approximately 318 million tires per year?",
+      "choices": [
+        {
+          "value": "LEGO",
+          "correct": true
+        },
+        {
+          "value": "Goodyear Tire & Rubber Co.",
+          "correct": false
+        },
+        {
+          "value": "Cooper Tires",
+          "correct": false
+        },
+        {
+          "value": "Carlisle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "The World’s largest tire is in Allen Park, Michigan. The tire is [ ? ] feet tall and weighs [ ? ] tons. It was actually built to withstand hurricane-force winds! The tire was sponsored by Uniroyal and served as a Ferris wheel at the New York World’s Fair in 1964 and 1965.",
+      "choices": [
+        {
+          "value": "50 feet tall and weighs 9 tons",
+          "correct": false
+        },
+        {
+          "value": "60 feet tall and weighs 10 tons",
+          "correct": false
+        },
+        {
+          "value": "70 feet tall and weighs 11 tons",
+          "correct": false
+        },
+        {
+          "value": "80 feet tall and weighs 12 tons",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "The rubber that tires are made with is naturally white. [ This... ] is added to tire rubber to increase the durability and strength of the rubber. It also reduces hot spots on the tires.",
+      "choices": [
+        {
+                  "value": "Black Salsify",
+                  "correct": false
+                },
+                {
+                  "value": "Black Tea",
+                  "correct": false
+                },
+                {
+                  "value": "Tar",
+                  "correct": false
+                },
+                {
+                  "value": "Carbon black",
+                  "correct": true
+                }
+            ]
+          },
+          {
+            "label": "For the first [ ? ] years of the car, all tires were white. Zinc oxide was added to the rubber for strength, but had a side effect of making bright white tires.",
+            "choices": [
+              {
+                        "value": "25",
+                        "correct": true
+                      },
+                      {
+                        "value": "12",
+                        "correct": false
+                      },
+                      {
+                        "value": "10",
+                        "correct": false
+                      },
+                      {
+                        "value": "30",
+                        "correct": false
+                      }
+                  ]
+                },
+                {
+                  "label": "The Space Shuttle’s main wheels are approximately the size of those found on an 18-wheeler. However, one Space Shuttle tire can support [ ? ]pounds, and is rated for [ ? ] mph.",
+                  "choices": [
+                    {
+                              "value": "17.750 pounds, and is rated for 219 mph",
+                              "correct": false
+                            },
+                            {
+                              "value": "35,500 pounds, and is rated for 239 mph",
+                              "correct": false
+                            },
+                            {
+                              "value": "71,000 pounds, and is rated for 279 mph",
+                              "correct": false
+                            },
+                            {
+                              "value": "142,000 pounds, and is rated for 259 mph",
+                              "correct": true
+                            }
+                        ]
+                      }
+]

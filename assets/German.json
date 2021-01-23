@@ -1,0 +1,107 @@
+[
+    {
+      "label": "What is Hello in German?",
+      "choices": [
+        {
+          "value": "Au revoir",
+          "correct": false
+        },
+        {
+          "value": "Hallo",
+          "correct": true
+        },
+        {
+          "value": "Tant pis",
+          "correct": false
+        },
+        {
+          "value": "Salut!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What is Goodbye in German?",
+      "choices": [
+        {
+          "value": "Auf Wiedersehen",
+          "correct": true
+        },
+        {
+          "value": "Bonjour",
+          "correct": false
+        },
+        {
+          "value": "Tant pis",
+          "correct": false
+        },
+        {
+          "value": "Salut!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What is mouth in Geman?",
+      "choices": [
+        {
+          "value": "Au revoir",
+          "correct": false
+        },
+        {
+          "value": "der Mund",
+          "correct": true
+        },
+        {
+          "value": "Tant pis",
+          "correct": false
+        },
+        {
+          "value": "Salut!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What is child in German?",
+      "choices": [
+        {
+          "value": "Au revoir",
+          "correct": false
+        },
+        {
+          "value": "das Kind",
+          "correct": true
+        },
+        {
+          "value": "Tant pis",
+          "correct": false
+        },
+        {
+          "value": "Salut!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What is: Hello, how are you? in German?",
+      "choices": [
+        {
+          "value": "Au revoir",
+          "correct": false
+        },
+        {
+          "value": "Hallo, wie geht es dir/ihnen?",
+          "correct": true
+        },
+        {
+          "value": "Tant pis",
+          "correct": false
+        },
+        {
+          "value": "Salut!",
+          "correct": false
+        }
+      ]
+    }
+  ]

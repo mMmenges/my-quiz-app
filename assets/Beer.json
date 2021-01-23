@@ -1,0 +1,106 @@
+[
+    {
+      "label": "Which two other drinks are more popular on Earth?",
+      "choices": [
+        {
+          "value": "water and tea",
+          "correct": true
+        },
+        {
+          "value": "coffee and juice",
+          "correct": false
+        },
+        {
+          "value": "milk and wine",
+          "correct": false
+        },
+        {
+          "value": "soda and rum",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What annual profits does beer turn in the US?",
+      "choices": [
+        {
+          "value": "Over 1 billion US-$",
+          "correct": false
+        },
+        {
+          "value": "Over 10 billion US-$",
+          "correct": false
+        },
+        {
+          "value": "Over 50 billion US-$",
+          "correct": false
+        },
+        {
+          "value": "Over 100 billion US-$",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "As of 2017, California had by far the most breweries in the United States, how many?",
+      "choices": [
+        {
+          "value": "1106",
+          "correct": true
+        },
+        {
+          "value": "500",
+          "correct": false
+        },
+        {
+          "value": "2000",
+          "correct": false
+        },
+        {
+          "value": "4500",
+          "correct": false
+        }
+      ]
+    },{
+      "label": "How many different distinct types of beer were known, according to an ancient Egypt document?",
+      "choices": [
+        {
+          "value": "2",
+          "correct": false
+        },
+        {
+          "value": "7",
+          "correct": false
+        },
+        {
+          "value": "17",
+          "correct": true
+        },
+        {
+          "value": "31",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "The largest recorded glass of beer contained just under [how many?] gallons of Guinness, at the Auld Dubliner Irish Pub is Tustin, California.",
+      "choices": [
+        {
+          "value": "110 (416.395 liters)",
+          "correct": false
+        },
+        {
+          "value": "220 (832.791 liters) ",
+          "correct": false
+        },
+        {
+          "value": "330 (1249.19 liters)",
+          "correct": true
+        },
+        {
+          "value": "440 (1665.58 liters)",
+          "correct": false
+        }
+      ]
+    }
+  ]
