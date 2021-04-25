@@ -1,6 +1,6 @@
 [
     {
-      "label": "What is Hello in Latin?",
+      "label": "What is 'Hello' in Latin?",
       "choices": [
         {
           "value": "amicus",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "label": "What is Goodbye in Latin?",
+      "label": "What is 'Goodbye' in Latin?",
       "choices": [
         {
           "value": "vale",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "label": "What is mouth in Latin?",
+      "label": "What is 'mouth' in Latin?",
       "choices": [
         {
           "value": "Au revoir",
@@ -63,10 +63,10 @@
       ]
     },
     {
-      "label": "What is child in Latin?",
+      "label": "What is 'child' in Latin?",
       "choices": [
         {
-          "value": "",
+          "value": "liber",
           "correct": false
         },
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "label": "What is: Hello, how are you? in Latin?",
+      "label": "What is: 'Hello, how are you?' in Latin?",
       "choices": [
         {
           "value": "aureum",

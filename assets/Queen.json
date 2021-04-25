@@ -1,0 +1,206 @@
+[
+    {
+      "label": "The Queen was born at 2:40 in the morning of April 21, 1926, at 17 Bruton Street in the Mayfair district of London - as Princess Elizabeth Alexandra Mary. What nickname did her parents give her?",
+      "choices": [
+        {
+          "value": "Lizzy",
+          "correct": false
+        },
+        {
+          "value": "Betty",
+          "correct": false
+        },
+        {
+          "value": "Lilibet",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "She is the longest-serving monarch in British history: How long has Elizabeth II been on the throne?",
+      "choices": [
+        {
+          "value": "Novebmer 14, 1948",
+          "correct": false
+        },
+        {
+          "value": "February 6, 1952",
+          "correct": true
+        },
+        {
+          "value": "June 2, 1953",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Boris Johnson is the 14th prime minister Elizabeth II has seen as queen. Who was in office when she ascended the throne?",
+      "choices": [
+        {
+          "value": "Clement Attlee",
+          "correct": false
+        },
+        {
+          "value": "Winston Churchill",
+          "correct": true
+        },
+        {
+          "value": "Harold Macmillan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "During World War II, 'Elizabeth Windsor' served with the Auxiliary Territorial Service (ATS). What training did she receive with the Women's Division of the British Army?",
+      "choices": [
+        {
+          "value": "Car mechanic",
+          "correct": true
+        },
+        {
+          "value": "Radio operator",
+          "correct": false
+        },
+        {
+          "value": "Cook",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "On November 20, 1947, Elizabeth married Prince Philip. What was the family relationship between the two?",
+      "choices": [
+        {
+          "value": "They were not related",
+          "correct": false
+        },
+        {
+          "value": "They were third cousins",
+          "correct": true
+        },
+        {
+          "value": "They were great niece and great uncle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Queen Elizabeth II has four children. Put them in the right order from oldest to youngest?",
+      "choices": [
+        {
+          "value": "Prince Charles, Princess Anne, Prince Edward, Prince Andrew",
+          "correct": false
+        },
+        {
+          "value": "Prince Charles, Prince Andrew, Princess Anne, Prince Edward",
+          "correct": false
+        },
+        {
+          "value": "Prince Charles, Princess Anne, Prince Andrew, Prince Edward",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "The Queen on her first visit to Germany in 1965. Which German president stood with her on the balcony of Bonn City Hall?",
+      "choices": [
+        {
+          "value": "Theodor Heuss",
+          "correct": false
+        },
+        {
+          "value": "Heinrich Luebke",
+          "correct": true
+        },
+        {
+          "value": "Gustav Heinemann",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What did Elizabeth officially do for the first time in 1998?",
+      "choices": [
+        {
+          "value": "She went to a pub for the first time",
+          "correct": true
+        },
+        {
+          "value": "She rode the subway for the first time",
+          "correct": false
+        },
+        {
+          "value": "She paid income taxes for the first time",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "How many rooms does Buckingham Palace have?",
+      "choices": [
+        {
+          "value": "577",
+          "correct": false
+        },
+        {
+          "value": "757",
+          "correct": false
+        },
+        {
+          "value": "775",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "Which year did Queen Elizabeth II refer to as annus horribilis (year of horror)?",
+      "choices": [
+        {
+          "value": "1992",
+          "correct": true
+        },
+        {
+          "value": "1997",
+          "correct": false
+        },
+        {
+          "value": "2002",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "When Michelle Obama was a guest at Buckingham Palace in 2009, she broke court protocol: What faux pas did the then First Lady of the United States make?",
+      "choices": [
+        {
+          "value": "She put an arm around the Queen's shoulder",
+          "correct": true
+        },
+        {
+          "value": "She wore a dress with spaghetti straps",
+          "correct": false
+        },
+        {
+          "value": "She ignored the request to shake hands with the Queen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "In 2012, the year of her diamond jubilee on the throne, Elizabeth II opened the Summer Olympics in London. She had opened Olympic Games before, which one?",
+      "choices": [
+        {
+          "value": "London 1948",
+          "correct": false
+        },
+        {
+          "value": "Montreal 1976",
+          "correct": true
+        },
+        {
+          "value": "Sydney 2000",
+          "correct": false
+        }
+      ]
+    }
+  ]

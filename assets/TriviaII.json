@@ -1,0 +1,188 @@
+[
+    {
+      "label": "Is the equator the line between the north and the south poles on Earth?",
+      "choices": [
+        {
+          "value": "Yes",
+          "correct": false
+        },
+        {
+          "value": "No",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "Our solar system resides _______ of the Milky Way galaxy.",
+      "choices": [
+        {
+          "value": "About 2/3 of the way out from the center",
+          "correct": true
+        },
+        {
+          "value": "About 1/3 of the way out from the center",
+          "correct": false
+        },
+        {
+            "value": "About 1/4 of the way out from the center",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Which former French colony was the first to achieve independence in Sub-Saharan Africa in 1958?",
+      "choices": [
+        {
+          "value": "Algeria",
+          "correct": false
+        },
+        {
+          "value": "Guinea",
+          "correct": true
+        },
+        {
+          "value": "Mali",
+          "correct": false
+        },
+        {
+          "value": "Central African Republic",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "How fast can an ostrich run?",
+      "choices": [
+        {
+          "value": "25 km/hr (15 mph)",
+          "correct": false
+        },
+        {
+          "value": "50 km/hr (30 mph)",
+          "correct": false
+        },
+        {
+          "value": "65 km/hr (40 mph)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "Balanced forces act on objects that are:",
+      "choices": [
+        {
+          "value": "Stationary",
+          "correct": true
+        },
+        {
+          "value": "In motion",
+          "correct": false
+        },
+        {
+          "value": "Rising or falling",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Which Caribbean island has the greatest area?",
+      "choices": [
+        {
+          "value": "Jamaica",
+          "correct": false
+        },
+        {
+          "value": "Cuba",
+          "correct": true
+        },
+        {
+          "value": "Puerto Rico",
+          "correct": false
+        },
+        {
+          "value": "Hispanola",
+          "correct": false
+        }
+      ]
+    },
+    {
+        "label": "Zulia is a province of which country?",
+        "choices": [
+          {
+            "value": "Colombia",
+            "correct": false
+          },
+          {
+            "value": "Brazil",
+            "correct": false
+          },
+          {
+            "value": "Venezuela",
+            "correct": true
+          },
+          {
+            "value": "Ecuador",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "label": "Who painted “The Garden of Earthly Delights”?",
+        "choices": [
+          {
+            "value": "Salvador Dali",
+            "correct": false
+          },
+          {
+            "value": "Francisco Goya",
+            "correct": false
+          },
+          {
+            "value": "Rembrandt",
+            "correct": false
+          },
+          {
+              "value": "Hieronymus Bosch",
+              "correct": true
+          }
+        ]
+      },
+      {
+        "label": "On the TV sitcom Seinfeld, what is Kramer’s first name?",
+        "choices": [
+          {
+            "value": "Kessler",
+            "correct": false
+          },
+          {
+            "value": "Newman",
+            "correct": false
+          },
+          {
+            "value": "Cosmo",
+            "correct": true
+          },
+          {
+            "value": "Larry",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "label": "Which style of art was produced in, or under the influence of, the Eastern Roman Empire?",
+        "choices": [
+                    {
+            "value": "Levantine",
+            "correct": false
+          },
+          {
+            "value": "Baroque",
+            "correct": false
+          },
+          {
+            "value": "Byzantine",
+            "correct": true
+          }
+        ]
+      }
+  ]

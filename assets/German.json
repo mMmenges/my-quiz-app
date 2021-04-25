@@ -1,6 +1,6 @@
 [
     {
-      "label": "What is Hello in German?",
+      "label": "What is 'Hello' in German?",
       "choices": [
         {
           "value": "Au revoir",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "label": "What is Goodbye in German?",
+      "label": "What is 'Goodbye' in German?",
       "choices": [
         {
           "value": "Auf Wiedersehen",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "label": "What is mouth in Geman?",
+      "label": "What is 'mouth' in Geman?",
       "choices": [
         {
           "value": "Au revoir",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "label": "What is child in German?",
+      "label": "What is 'child' in German?",
       "choices": [
         {
           "value": "Au revoir",
@@ -84,14 +84,14 @@
       ]
     },
     {
-      "label": "What is: Hello, how are you? in German?",
+      "label": "What is: 'Hello, how are you?' in German?",
       "choices": [
         {
           "value": "Au revoir",
           "correct": false
         },
         {
-          "value": "Hallo, wie geht es dir/ihnen?",
+          "value": "Hallo, wie geht es dir/ihnen",
           "correct": true
         },
         {

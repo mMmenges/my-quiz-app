@@ -1,6 +1,6 @@
 [
     {
-      "label": "What is Hello in French?",
+      "label": "What is 'Hello' in French?",
       "choices": [
         {
           "value": "Au revoir",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "label": "What is Goodbye in french?",
+      "label": "What is 'Goodbye' in french?",
       "choices": [
         {
           "value": "Au revoir",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "label": "What is mouth in French?",
+      "label": "What is 'mouth' in French?",
       "choices": [
         {
           "value": "Au revoir",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "label": "What is child in French?",
+      "label": "What is 'child' in French?",
       "choices": [
         {
           "value": "Au revoir",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "label": "What is: Hello, how are you? in French?",
+      "label": "What is: 'Hello, how are you?' in French?",
       "choices": [
         {
           "value": "Au revoir",

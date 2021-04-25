@@ -6,33 +6,42 @@
     "fileName": "maths.json"
   },
   {
-    "label": "French",
-    "name": "French",
-    "description": "Questions about the French language",
-    "fileName": "french.json"
-  },
-  {
     "label": "German",
     "name": "German",
     "description": "Questions about the German language",
-    "fileName": "german.json"
+    "fileName": "German.json"
   },
   {
     "label": "Latin",
     "name": "Latin",
     "description": "Questions about the Latin language",
-    "fileName": "latin.json"
+    "fileName": "Latin.json"
   },
   {
     "label": "Tires",
     "name": "Tires",
-    "description": "Questions about the tires",
-    "fileName": "tires.json"
+    "description": "Questions about Tires",
+    "fileName": "Tires.json"
   },{
     "label": "Beer",
     "name": "Beer",
-    "description": "Questions about the Beer",
-    "fileName": "beer.json"
-  } 
+    "description": "Questions about Beer",
+    "fileName": "Beer.json"
+  } ,{
+    "label": "The Queen (Elisabeth II)",
+    "name": "Queen",
+    "description": "What do you know about the Queen?",
+    "fileName": "Queen.json"
+  },{
+    "label": "Trivia Questions I",
+    "name": "TriviaI",
+    "description": "Questions about random topics",
+    "fileName": "TriviaI.json"
+  },{
+    "label": "Trivia Questions II",
+    "name": "TriviaII",
+    "description": "More Questions about random topics",
+    "fileName": "TriviaII.json"
+  }
 
 ]
